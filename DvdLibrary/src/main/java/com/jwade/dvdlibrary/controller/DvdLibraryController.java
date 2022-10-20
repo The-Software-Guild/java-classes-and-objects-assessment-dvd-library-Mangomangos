@@ -69,7 +69,7 @@ public class DvdLibraryController {
     }
 
     /*
-     Method in the Controller to orchestrate the creation of a new student. Our method will do the following:
+     Method in the Controller to orchestrate the creation of a new DVD. Our method will do the following:
      Display the Create dvd banner
      Get all the dvd data from the user and create the new dvd object
      Store the new dvd object

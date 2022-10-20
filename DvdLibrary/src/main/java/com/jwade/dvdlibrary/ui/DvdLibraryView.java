@@ -93,7 +93,7 @@ public class DvdLibraryView {
     }
 
     /*
-    Shows the dtudent banner
+    Shows the Display DVD banner
      */
     public void displayDisplayDvdBanner() {
         io.print("=== Display Dvd ===");
