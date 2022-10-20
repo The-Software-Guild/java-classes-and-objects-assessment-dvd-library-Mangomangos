@@ -7,7 +7,7 @@ package com.jwade.dvdlibrary.dto;
 
 /**
  *
- * @author salajrawi
+ * @author jwade
  */
 
 public class DvD {

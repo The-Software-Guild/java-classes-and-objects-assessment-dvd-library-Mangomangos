@@ -14,7 +14,7 @@ import com.jwade.dvdlibrary.ui.UserIOConsoleImpl;
 
 /**
  *
- * @author salajrawi
+ * @author jwade
  */
 public class App {
 

@@ -7,7 +7,7 @@ package com.jwade.dvdlibrary.dao;
 
 /**
  *
- * @author salajrawi
+ * @author jwade
  */
 public class DvdLibraryDaoException extends Exception{
     

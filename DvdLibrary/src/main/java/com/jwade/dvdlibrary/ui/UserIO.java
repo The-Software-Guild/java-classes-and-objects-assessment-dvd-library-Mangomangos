@@ -7,7 +7,7 @@ package com.jwade.dvdlibrary.ui;
 
 /**
  *
- * @author salajrawi
+ * @author jwade
  */
 public interface UserIO {
     void print(String msg);
