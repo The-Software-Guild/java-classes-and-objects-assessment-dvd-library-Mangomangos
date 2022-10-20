@@ -150,7 +150,6 @@ public class DvdLibraryDaoFileImpl implements DvdLibraryDao {
 
     @Override
     public DvD editReleaseDate(String title, String newReleaseDate) throws DvdLibraryDaoException {
-       loadDvdFile();
         DvD currentDVD = dvds.get(title);
         currentDVD.setReleaseDate(newReleaseDate);
         writeDvdFile();
